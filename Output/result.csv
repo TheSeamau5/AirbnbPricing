@@ -1,0 +1,4 @@
+Zipcode, Property Type, Room Type, Accommodates, Bathrooms, Beds, Bed Type, Linear Regression, Gradient Descent, SVM, Naive Bayes, Decision Tree, KNN
+90210,Apartment,Entire home/apt,2,1,1,Real Bed,362.050140848,155.407409516,125.731737478,244.0,193.933333333,125.4
+94301,Apartment,Entire home/apt,2,1,1,Real Bed,211.577775248,155.408923999,125.731737478,301.0,130.767045455,100.0
+95112,Apartment,Entire home/apt,5,2,4,Real Bed,252.372090645,155.426510017,129.472576306,236.0,260.294657312,260.0
